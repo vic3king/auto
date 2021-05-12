@@ -44,7 +44,7 @@
     "dotenv": "7.0.0",
     "express-rate-limit": "^3.4.0",
     "global": "^4.3.2",
-    "grpc": "^1.24.3",
+    "grpc": "^1.24.9",
     "helmet": "^3.16.0",
     "passport": "^0.4.0",
     "passport-http-bearer": "^1.0.1",
